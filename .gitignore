@@ -45,8 +45,8 @@ ipython_config.py
 
 # Project specific
 figures/
-*.pdf
 IF10244.pdf
+Exhibit99_Q4_2023-c.pdf
 chromadb/
 .chroma/
 chroma_data/
